@@ -2,4 +2,4 @@
 
 ![][erweima]
 
-[erweima]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+[erweima]:https://github.com/cnhjq/weekly_arch/blob/master/erweima.jpg
