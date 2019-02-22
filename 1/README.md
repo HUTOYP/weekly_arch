@@ -1,7 +1,6 @@
 架构原理
 
 1、[为什么说Redis是单线程的以及Redis为什么这么快！](https://mp.weixin.qq.com/s/vdHpPy1c2YpNRFa7jVdhKg?token=64911275&lang=zh_CN "链接")
-
 Redis作为常用的k-v数据存储系统，在服务缓存等方面有着核心地位。
 
 2、[第一次有人把“分布式事务”讲的这么简单明了](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655818255&idx=1&sn=8f41a01c6d512baa6207bd94d44a9478&chksm=bd74dfd88a0356ce023f18abb1166138bed190f7ee305d7e3375a8374636dd07689d9a57d9e3&scene=0#rd)
