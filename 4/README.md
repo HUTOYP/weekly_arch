@@ -1,6 +1,6 @@
 **架构原理**    
 1、[InnoDB，5项最佳实践，知其所以然？](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961428&idx=1&sn=31a9eb967941d888fbd4bb2112e9602b&chksm=bd2d0d888a5a849e7ebaa7756a8bc1b3d4e2f493f3a76383fc80f7e9ce7657e4ed2f6c01777d&scene=0#rd)  
-MySQL两个最常用的存储引擎，MyISAM和InnoDB，先了解MyISAM和InnoDB的特点，然后再看InnoDB的实践。
+MySQL两个最常用的存储引擎，MyISAM和InnoDB，先了解MyISAM和InnoDB的特点，然后再看InnoDB的实践。  
 2、[InnoDB并发如此高，原因竟然在这？](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961444&idx=1&sn=830a93eb74ca484cbcedb06e485f611e&chksm=bd2d0db88a5a84ae5865cd05f8c7899153d16ec7e7976f06033f4fbfbecc2fdee6e8b89bb17b&scene=0#rd)
 表锁和行锁、MVCC、快照读、事务回滚机制。其中，MVCC在分布式一致性中也有应用。
   
@@ -8,7 +8,7 @@ MySQL两个最常用的存储引擎，MyISAM和InnoDB，先了解MyISAM和InnoDB
 1、[一文详解：如何设计出高可用的分布式架构？](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655817551&idx=1&sn=0cfae5563d30c9fdc311abec8ea7d73a&chksm=bd74c2988a034b8e3a0061da7b27af4974c85805e3370c4acddf0a3445622f2a0eb43c10eebb&scene=0#rd)  
 介绍了SOA、微服务和Service Mesh的演进，以及分布式系统的基本原理和概念，内容较基础。  
 2、[权衡取舍：企业落地微服务避坑指南](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651008743&idx=2&sn=85e41382c56d65169079e45bacef56f8&chksm=bdbed6b48ac95fa2ad63ce8fe3069bee3157f02faaa91776a374f0c04da72ff840a44fb9a381&scene=0#rd)  
-什么叫微服务？要不要微服务？怎么做微服务？微服务最难的是落地，最关键的是配套的基础设施支持。
+什么叫微服务？要不要微服务？怎么做微服务？微服务最难的是落地，最关键的是配套的基础设施支持。  
 
 **架构实践 - 性能优化专题**  
 1、[美团外卖系统架构演进与稳定性的探索](https://mp.weixin.qq.com/s?__biz=MzI4OTU3ODk3NQ==&mid=2247485032&idx=1&sn=891af24fc16cd0d43567397d2e3b2a3e&chksm=ec2c4cd8db5bc5ce689e363c2167f9f038a19fab62e6c22d674e949cbe296c2aa3905c98c631&scene=0#rd)  
