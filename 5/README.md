@@ -15,6 +15,7 @@
 **架构实践**  
 1、[秒杀系统架构分析与实战](https://www.jianshu.com/p/df4fbecb1a4b)  
 比较全面的介绍了秒杀系统架构的业务特点和架构设计思路。    
-2、[用最少的机器支撑万亿级访问，微博6年Redis优化历程](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547263&idx=1&sn=fe484b24660b7e1dc4beabca71fe1cb1&scene=21#wechat_redirect)  
+2、  
+[用最少的机器支撑万亿级访问，微博6年Redis优化历程](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547263&idx=1&sn=fe484b24660b7e1dc4beabca71fe1cb1&scene=21#wechat_redirect)  
 [Redis实战：如何构建类微博的亿级社交平台](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547053&idx=1&sn=833fddbc83379d9cac8d7f757343412e&scene=21#wechat_redirect)  
 两篇有关Redis在新浪微博中的应用，阐述了微博对Redis架构优化历程和架构设计思路。  
