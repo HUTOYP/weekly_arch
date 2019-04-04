@@ -20,6 +20,6 @@ Redis集群的主流组件Codis、RedisCluster的选型，以及对一致性和�
 
 **架构实践**  
 1、[阿里巴巴的全链路压测](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652561115&idx=1&sn=ba9b1b1dfa738a455c3640f79c16b8e0&scene=21&ascene=0&devicetype=android-28&version=2700033c&nettype=WIFI&abtest_cookie=BQABAAgACgALABIAEwAGAJ6GHgAjlx4AVpkeAMaZHgDZmR4A3JkeAAAA&lang=zh_CN&pass_ticket=vYsQrWZQaJpy946fySNtJgFXN1CO6F3GMPUzI7mo41Ni7G%2FVgx972i0W19meLCnD&wx_header=1)  
-开发运维不分家(类比文体不分家、文体两开花~)。  
+开发运维一家亲 (类比文体不分家、文体两开花~)。  
 2、[知乎基于Kubernetes的kafka平台的设计和实现](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653550746&idx=1&sn=41871413a14082b5940d072efa64c482&chksm=813a6902b64de0148414b05de2904a4195ae24bb8f2322fc7d6f76afd2391a086039bb33c681&mpshare=1&scene=1&srcid=&from=singlemessage&ascene=1&devicetype=android-28&version=2700033a&nettype=WIFI&abtest_cookie=BAABAAgACgALABMABACehh4AI5ceAFaZHgDGmR4AAAA%3D&lang=zh_CN&pass_ticket=9jTQre38gjyldjwfX5lguohZV13GA6uLwTHEOAJIlac%2FnQdlB3iD4yEVxsQi9%2BJE&wx_header=1)  
 Kafka 和 k8s 在知乎的应用，最近会发个副刊专门分享几篇流式计算架构文章。
