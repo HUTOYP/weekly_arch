@@ -8,7 +8,7 @@
 2、[分布式事务](https://mp.weixin.qq.com/s/ahGUAyynbPyid6HYFn6M-g)  
 简单介绍保证分布式系统事务处理的主流实现方式  
 
-**架构设计 - 区块链**   
+**架构设计**   
 1、[区块链技术架构分析（数据层）](https://mp.weixin.qq.com/s?__biz=MzA5NDAxNzIzNg==&mid=2450006039&idx=1&sn=b76fa4e2a7ed42c05cf62a2ed0da2ccb&scene=21#wechat_redirect)    
 介绍区块链内部数据结构。  
 2、[区块链技术指南之分布式系统核心问题](https://mp.weixin.qq.com/s/gQxc-eetS2-P9M1BNjvi6Q)  
