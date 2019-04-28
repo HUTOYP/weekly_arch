@@ -16,4 +16,4 @@ HashTable、跳表和平衡二叉搜索树（扩展到红黑树、B+树）是实
 1、[Facebook F4架构解读：千亿级图片存储Haystack的演进](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653550888&idx=1&sn=191d4e67807c39a17b7c5abc4fa028d9)  
 Facebook F4 系统用于存储介于冷热数据之间的温数据，目的是降低存储成本，在容忍磁盘，主机，机架等故障的同时，保证一定的可用性。  
 2、[从观望到落地：新浪微博Service Mesh自研实践全过程](https://mp.weixin.qq.com/s/jpf4v8Wcytvt2kxTnrUrjg)  
-Service Mesh 是一个专用的基础设施层，用于使服务到服务的通信安全、快速和可靠。这几年Service Mesh伴随着微服务的兴起也成为当下最火的服务治理思路。
+Service Mesh 是一个专用的基础设施层，用于使服务到服务的通信安全、快速和可靠。这几年Service Mesh伴随着微服务的兴起也成为当下最火和面向未来的微服务架构思想。
