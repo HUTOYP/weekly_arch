@@ -10,7 +10,7 @@
 
 **架构设计**   
 1、[Thrift or gRPC ？Alluxio RPC框架的深度实践总结](https://mp.weixin.qq.com/s/n79fA0_Wv9xSyuVt_a89kA)  
-我之前一直认为Thrift是比gRPC更好的选择，但是本文说明了在一些场景下gRPC具有更加出色的表现。 
+我之前一直认为Thrift是比gRPC更好的选择，但是本文说明了在一些场景下gRPC具有更加出色的表现。    
 2、[研发运维效率提升100%，机器成本下降50%，阿里巴巴在 Serverless 计算领域的探索](https://mp.weixin.qq.com/s/Gj_qPPTn6KN065qUu6e-mw)  
 微服务和原生云架构的发展真可谓日新月异，ServiceMesh都还没有消化，Serverless的概念就已经火了起来，文章分析了AWS Lambda的设计思路和现有业务迁移难度，具体介绍了阿里在Serverless方面的创新工作。  
 
