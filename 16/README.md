@@ -5,7 +5,9 @@
 
 **架构设计**   
 1、[Feed流系统设计-总纲](https://mp.weixin.qq.com/s/ccxM2thPbzg5vDWgGVJ5vQ)  
-比较完整的介绍了Feed流系统的特点、应用场景、架构设计和选型。   
+比较完整的介绍了Feed流系统的特点、应用场景、架构设计和选型。 
+2、[10 余年前端老兵亲述：前端的未来在哪里？](https://mp.weixin.qq.com/s/9ZPhaGuCnY2j49pCBetE9Q)   
+本文作者拥有十几年前端开发经验，他将带领我们回顾历史，立足现在来分析，前端工程师的未来可以怎样发展   
 
 **架构实践**    
 1、[每秒千万级的实时数据处理是怎么实现的？](https://mp.weixin.qq.com/s/Us3Eg-CbAMPHQXxyqh9rVQ)  
