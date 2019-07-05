@@ -16,5 +16,5 @@
 **架构实践**    
 1、[每秒千万级的实时数据处理是怎么实现的？](https://mp.weixin.qq.com/s/Us3Eg-CbAMPHQXxyqh9rVQ)  
 咸鱼（淘宝）在处理大规模流量实时数据处理的解决方案，主要是在开源方案上的定制化，从而优化性能。  
-2、[从工具到社区，美图秀秀大规模性能优化实践](https://mp.weixin.qq.com/s/8td1UYqCMccXQKS0F8yK8Q)
+2、[从工具到社区，美图秀秀大规模性能优化实践](https://mp.weixin.qq.com/s/8td1UYqCMccXQKS0F8yK8Q)  
 美图秀秀社区在性能优化方面的探索和实践。  
