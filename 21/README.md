@@ -19,5 +19,5 @@ Linux系统中五种IO模型的实现机制和对比，可以期待一下更加�
 Medium在实践微服务架构时避免“微服务综合症”的经验分享。  
 
 **技术管理**  
-1、[一文了解微服务的流程和组织](https://mp.weixin.qq.com/s/ymgkJfCVtIii_cXybNdG7w)
+1、[一文了解微服务的流程和组织](https://mp.weixin.qq.com/s/ymgkJfCVtIii_cXybNdG7w)  
 组织转向微服务架构的过程并非仅仅是研发人员的工作，组织需要配合从管理到保障实施多个领域的调整，狭义上是DevOps，广义上甚至要做出对组织架构、KPI等方面的改革。
