@@ -1,7 +1,7 @@
 **架构原理**      
 1、[分布式事务处理方式总结](https://mp.weixin.qq.com/s/tQ1nXjrPgHmXOUzfA2rGAg)  
 前两周都分享了分布式事务原理和技术，解决分布式事务最优的策略就是避免分布式事务的发生。除此之外，灵活使用事务补偿、异步消息通知和改进的两阶段提交可以应对大部分场景。  
-2、[Kafka史上最详细原理总结](https://mp.weixin.qq.com/s/decNVmiGH5BbNGl0wHwEMA)
+2、[Kafka史上最详细原理总结](https://mp.weixin.qq.com/s/decNVmiGH5BbNGl0wHwEMA)  
 文章很全面的总结了Kafka的架构原理，文字较多，需要花些时间阅读。  
 
 **架构设计**   
