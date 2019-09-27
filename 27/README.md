@@ -18,6 +18,6 @@
 2、[顺丰微服务探索及实践](https://mp.weixin.qq.com/s/cwYpPGEnf2lyqtRwl4RrQw)  
 文章以PPT的形式分享了顺丰在微服务架构改造过程中的探索及实践。  
 
-*节前彩蛋*
-1、[代码调试的最佳指南](https://mp.weixin.qq.com/s/rtgUb5FsYpRyRXaCTVhhcQ)
+**节前彩蛋**  
+1、[代码调试的最佳指南](https://mp.weixin.qq.com/s/rtgUb5FsYpRyRXaCTVhhcQ)  
 相信很多开发者对于代码调试最难的地方是什么依然云里雾里，而且这不仅仅是初学者需要面临的问题——本文中就来探讨下何为代码调试的最佳指南。
