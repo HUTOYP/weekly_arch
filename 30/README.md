@@ -18,6 +18,6 @@
 3、[在数据规模重压、多维度查询需求之下，支付平台的迁移之旅](https://mp.weixin.qq.com/s/_0S2xYFcogcNlsOcWIzNBg)  
 文章介绍了TiDB在丰巢支付平台中的应用。  
 
-**架构前沿** 
+**架构前沿**   
 1、[2019腾讯区块链白皮书](https://mp.weixin.qq.com/s/xaywjcize8pEaHBzi2gUoQ)  
 习近平在中央政治局第十八次集体学习时强调把区块链作为核心技术自主创新重要突破口，加快推动区块链技术和产业创新发展。  
