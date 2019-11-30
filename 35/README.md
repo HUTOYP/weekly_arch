@@ -14,7 +14,7 @@
 1、[日均 5 亿查询量的ElasticSearch架构如何设计](https://mp.weixin.qq.com/s/ubjxnRrNfVrWdIp7IOAaLg)  
 京东到家ES集群演进历程和实践经验。    
 2、[万亿级消息背后: 小米消息队列的实践](https://mp.weixin.qq.com/s/hGeTmKxRbbwdEgW6adN3Vg)  
-文章介绍了小米在线消息队列Talos产生的业务背景、架构设计和实践。 
+文章介绍了小米在线消息队列Talos产生的业务背景、架构设计和实践。   
 3、[千万级延时任务队列如何实现，看美图开源的 lmstfy](https://mp.weixin.qq.com/s/79z5LQ5EE9pu3r7Qz5UrBg)  
 lmstfy(Let Me Schedule Task For You)是美图架构基础服务团队在 2018 年初基于 Redis 实现的简单任务队列(Task Queue)服务。  
 4、[美团点评 Kubernetes 集群管理实践](https://mp.weixin.qq.com/s/0LoKPhQeIKhdbjtDHk3xLw)  
