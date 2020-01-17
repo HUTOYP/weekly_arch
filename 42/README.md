@@ -33,7 +33,7 @@
 作者介绍蚂蚁金服在Service Mesh方向上的实践思路。  
 
 **架构文章年终汇总**  
-治愈春节孤独症患者的良药
+治愈春节孤独症患者的良药  
 1、[一文囊括中国各大互联网技术架构演进（收藏版）](https://mp.weixin.qq.com/s/qFZ1Dy-0JmrffEJFoBSgkw)  
 2、[2019DataFunTalk人工智能技术文章合集](https://mp.weixin.qq.com/s/QDNe3JAvG63-3pmiwx6nag)
 
