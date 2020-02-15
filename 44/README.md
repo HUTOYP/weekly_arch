@@ -22,6 +22,6 @@
 2、[小米流式平台架构演进与实践](https://mp.weixin.qq.com/s/rycBAKe6zSlcYfJPWL1o5w)  
 
 **技术成长**  
-3、[一个架构师谈什么是架构，以及怎么成为架构师](https://mp.weixin.qq.com/s/zq4R5nrYW4l0QVIHV1lPaA)  
+1、[一个架构师谈什么是架构，以及怎么成为架构师](https://mp.weixin.qq.com/s/zq4R5nrYW4l0QVIHV1lPaA)  
 
-4、[如何熟悉一个系统?](https://mp.weixin.qq.com/s/B4UdSUx0sfw8m3T6LbLD6w)
+2、[如何熟悉一个系统?](https://mp.weixin.qq.com/s/B4UdSUx0sfw8m3T6LbLD6w)
