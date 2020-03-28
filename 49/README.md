@@ -24,7 +24,7 @@ Flink 提供了灵活丰富的状态管理，可轻松解决数据之间的关�
 4、[大流量冲击下，腾讯QQ客户端如何保障春节红包活动的用户体验？](https://mp.weixin.qq.com/s/NlG4QPPfg34G-dUD2G-4GA)  
 2020春节红包“鼓力全开”已顺利闭幕，本文针对今年腾讯QQ春节红包客户端在活动配置、错峰、数据上报、资源预下载和柔性策略五个方面进行探讨和总结。  
 
-**技术人生**
+**技术人生**  
 1、[Code Review 是一场苦涩但有意思的修行](https://mp.weixin.qq.com/s/wz0M3eLkIf9c54zjnPXrsA)  
 Code Review 不仅是对别人负责，更是对自己负责。而且 CR 也是一种技术的交流和对业务的深入理解。  
 2、[任正非、马化腾、张一鸣的灰度哲学](https://mp.weixin.qq.com/s/xYH1L_5HNCkDV9GRNTI1Ew)  
