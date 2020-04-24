@@ -8,7 +8,7 @@ MySQL 和 MongoDB 两种不同类型的数据库使用了相似却不同的数�
 2、[带你走进神一样的Elasticsearch索引机制](https://mp.weixin.qq.com/s/a_ogP5JGBGPQhVXfkQXuyw)   
 文章深度解析了 Elasticsearch 索引原理及检索性能优化。
 
-**技术成长**  
+**架构实践**  
 1、[Apache Flink在滴滴的应用与实践](https://mp.weixin.qq.com/s/xftJ8S3qbXgK1JSeOllcfg)  
 文章介绍了 Apache Flink 在滴滴内部的应用和优化实践之路。  
 2、[B站高可用架构实践](https://mp.weixin.qq.com/s/3NUd4jObuTKqlhUr-eKvhA)  
