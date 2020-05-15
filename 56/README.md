@@ -19,6 +19,6 @@
 2、[网易新闻App架构重构实践：DDD正走向流行](https://mp.weixin.qq.com/s/FdwrT_xn3CQqpWoRVBttvQ)  
 网易新闻App在领域驱动设计（DDD）思想指导下，对其架构做了整体重构，文章介绍了网易新闻客户端的架构演进历程和DDD在重构中扮演的角色。  
 
-**番外**
+**番外**  
 1、[做推荐系统之余，我们该思考什么？](https://mp.weixin.qq.com/s/anO6QWJt6IHqDuph5vzf2w)  
 本文首先介绍业务以及从宏观和微观角度看增长，再者结合具体案例介绍宏观与微观的关注要点，最后再进行下总结。  
