@@ -6,12 +6,7 @@
 3、[分布式算法 Paxos 的直观解释](https://mp.weixin.qq.com/s/-ULrqBZ_GLY1_LN9eNPpXg)  
 一个 Paxos PPT 的分享，介绍了 Paxos 的概念、原理和优化。  
 4、[分布式文件系统设计，该从哪些方面考虑？](https://mp.weixin.qq.com/s/CnAPsCi0P1FzDco5-0gnVg)  
-从架构模型、
-持久化、
-伸缩性、
-高可用性、
-性能优化和缓存一致性、
-安全性等  
+从架构模型、持久化、伸缩性、高可用性、性能优化和缓存一致性、安全性等方面分析分布式文件系统的设计要点。  
 
 **架构设计**  
 1、[Elasticsearch对垒8大竞品技术，孰优孰劣](https://mp.weixin.qq.com/s/OKwT59EULFB_TfPhH1wtng)  
