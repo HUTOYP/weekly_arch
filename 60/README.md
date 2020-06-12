@@ -2,9 +2,16 @@
 1、[高质量的缺陷分析：让自己少写 bug](https://mp.weixin.qq.com/s/ilXi3bkdZtT6AjJJxkMEyw)  
 及时总结，设置卡点；结对分析，小组总结；负面清单支持下的全量分析；可操作的结果；团体学习，机制建设。  
 2、[一张图帮你快速建立大数据知识体系](https://mp.weixin.qq.com/s/j8tP9nTmA7m_MW85MXnExA)  
-知识图谱的  
-3、[彻底弄懂高内聚与低耦合](https://mp.weixin.qq.com/s/7kyikpvIKNJT-yLXP4G4Cw)  
-什么是高内聚与低耦合，适用该原则的设计模式，需要思考高内聚与低耦合在架构实践中面临的抉择、妥协，很多时候都是取中庸。  
+以知识图谱的形式建立大数据技术栈的样貌，想要深耕或查漏补缺的话是很好的覆盖率评价指标。    
+3、[分布式算法 Paxos 的直观解释](https://mp.weixin.qq.com/s/-ULrqBZ_GLY1_LN9eNPpXg)  
+一个 Paxos PPT 的分享，介绍了 Paxos 的概念、原理和优化。  
+4、[分布式文件系统设计，该从哪些方面考虑？](https://mp.weixin.qq.com/s/CnAPsCi0P1FzDco5-0gnVg)  
+从架构模型、
+持久化、
+伸缩性、
+高可用性、
+性能优化和缓存一致性、
+安全性等  
 
 **架构设计**  
 1、[Elasticsearch对垒8大竞品技术，孰优孰劣](https://mp.weixin.qq.com/s/OKwT59EULFB_TfPhH1wtng)  
