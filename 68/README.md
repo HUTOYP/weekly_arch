@@ -20,6 +20,6 @@
 4、[新一代京东电商广告排序模型](https://mp.weixin.qq.com/s/OWAvGzbtYye5g7TJB9btwA)  
 介绍视觉信息在CTR排序模型中的应用，将电商场景中丰富的、具有强视觉先验的"商品类目标注"作为CNN输入的一部分，将有效降低CNN训练的难度，提升排序效果。  
 
-**技术人生**
+**技术人生**  
 1、[反脆弱：在不确定世界的高阶生存之道](https://mp.weixin.qq.com/s/8afnbWb5E2zLcncjx9HhvA)  
 脆弱内心的强大之路。
