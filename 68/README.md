@@ -12,7 +12,7 @@
 
 **架构实践**  
 1、[谷歌如何调试大规模分布式系统](https://mp.weixin.qq.com/s/n_lpHCSbIrE_UX_fbICNjA)  
-谷歌如何端到端的调试复杂分布式系统中的故障。
+谷歌如何端到端的调试复杂分布式系统中的故障。  
 2、[第四范式推荐系统架构治理](https://mp.weixin.qq.com/s/8SxSmMiJkpaI5Rf_kFgkRA)  
 本文就第四范式在智能推荐系统架构方面的探索实践，聊一聊在应用架构治理方面提升推荐服务开发维护效率，增强系统灵活性和扩展性的新探索。  
 3、[阿里妈妈深度树匹配技术演进：TDM->JTM->BSAT](https://mp.weixin.qq.com/s/EFDmHH8oUmJk-rG5PNnsAg)  
