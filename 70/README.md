@@ -2,7 +2,7 @@
 1、[深入浅出QPS、RT和最佳线程数](https://mp.weixin.qq.com/s/ZpOXVpRPYIPRY3bW_t27QQ)  
 高并发服务中如何根据 QPS、RT 以及机器配置等指标计算服务并发度，合理调整线程数。  
 2、[结合代码详细聊聊 Java 网络编程中的 BIO、NIO 和 AIO](https://mp.weixin.qq.com/s/HZTeodo2SAX1K3BeRG1Sgg)  
-介绍网络IO原理，阻塞、非阻塞、同步、异步，以及多路复用技术，使用 AIO 实现真异步。
+介绍网络IO原理，阻塞、非阻塞、同步、异步，以及多路复用技术，使用 AIO 实现真异步。  
 3、[百万高并发情况下 Linux 系统及 Kernel 参数优化](https://mp.weixin.qq.com/s/buRausLkmiEEWAhd2mELvA)  
 在实际工作生产环境中，经常会遇到服务性能瓶颈，其中调整系统内核参数往往是重要的优化方向之一。  
 
