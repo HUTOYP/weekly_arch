@@ -18,6 +18,6 @@ Angular、React 和 Vue 的主要特征和应用场景。
 2、[传统架构 vs 云原生架构，谈谈为什么我们需要云原生架构](https://mp.weixin.qq.com/s/zOlQ07dCLRy_cHTTai6V1g)  
 按照云原生架构成熟度模型（SESORA），谈谈云原生架构如何落地。    
 
-**技术人生**
+**技术人生**  
 1、[如何在技术领域产生自己的影响力](https://mp.weixin.qq.com/s/9pATfrpSovchlElH7xn9Ow)  
 如何在技术领域产生自己的影响力。
