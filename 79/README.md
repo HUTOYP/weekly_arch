@@ -11,6 +11,6 @@
 3、[百度C++工程师的那些极限优化（内存篇）](https://mp.weixin.qq.com/s/zOlQ07dCLRy_cHTTai6V1g)  
 本文从内存访问角度，收集总结了一些具有通用意义的性能优化理论和典型案例。  
 4、[百度C++工程师的那些极限优化（并发篇）](https://mp.weixin.qq.com/s/0Ofo8ak7-UXuuOoD0KIHwA)  
-每个人所理解的并发问题，却又往往并不统一，本文系统梳理了百度C++工程师在进行并发优化时所作的工作。 
+每个人所理解的并发问题，却又往往并不统一，本文系统梳理了百度C++工程师在进行并发优化时所作的工作。  
 5、[百度Feed稳定性架构实践](https://mp.weixin.qq.com/s/sm8eehjoUEqvF_PS4VcRKg)  
 本文介绍百度Feed在线推荐系统是如何建设高可用性架构。
